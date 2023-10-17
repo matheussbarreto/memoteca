@@ -1,0 +1,28 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que vc veio",
+      "autoria": "Matheus",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 2,
+      "conteudo": "Aprendi bastante com esse curso",
+      "autoria": "Matheus",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 3,
+      "conteudo": "E agora estou fazendo um teste em um pensamento com mais de 256 caracteres para alterar o comportamento do componente, alterando o estilo CSS do elemento para uma largura maior que dos outros elementos, então assim o estilo da aplicação não ficará quebrado.",
+      "autoria": "Matheus",
+      "modelo": "modelo1"
+    },
+    {
+      "conteudo": "Esse curso é muito bom",
+      "autoria": "Matheus",
+      "modelo": "modelo3",
+      "id": 6
+    }
+  ]
+}
