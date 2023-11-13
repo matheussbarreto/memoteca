@@ -14,7 +14,8 @@ export class ExcluirPensamentosComponent implements OnInit {
     id: 0,
     conteudo: '',
     autoria: '',
-    modelo:''
+    modelo:'',
+    favorito: false
   }
   constructor(
     private service: PensamentoService,

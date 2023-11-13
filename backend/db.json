@@ -4,25 +4,36 @@
       "id": 1,
       "conteudo": "Que bom que vc veio",
       "autoria": "Matheus",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 2,
       "conteudo": "Aprendi bastante com esse curso",
       "autoria": "Matheus",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 3,
       "conteudo": "E agora estou fazendo um teste em um pensamento com mais de 256 caracteres para alterar o comportamento do componente, alterando o estilo CSS do elemento para uma largura maior que dos outros elementos, então assim o estilo da aplicação não ficará quebrado.",
       "autoria": "Matheus",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "conteudo": "Esse curso é muito bom",
       "autoria": "Matheus",
       "modelo": "modelo3",
-      "id": 6
+      "id": 6,
+      "favorito": false
+    },
+    {
+      "conteudo": " Que a força esteja com você!",
+      "autoria": "Mestre Yoda",
+      "modelo": "modelo1",
+      "id": 7,
+      "favorito": false
     }
   ]
 }
